@@ -15,6 +15,7 @@ public class Percolation {
         if (n <= 0) {
             throw new IllegalArgumentException();
         }
+        ArrayList a= new ArrayList();
         this.n = n;
         surface = new boolean[n][n];
         unionFind = new WeightedQuickUnionUF(n * n + 2);

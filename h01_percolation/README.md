@@ -6,3 +6,4 @@ The more difficult thing was to understand the backwash. I have implemented a ve
 
 An exercise for [Union-Find](https://algs4.cs.princeton.edu/15uf/)
 [algs4.jar Docs](https://algs4.cs.princeton.edu/code/index.php)
+ArrayList
